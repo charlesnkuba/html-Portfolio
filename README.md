@@ -10,10 +10,6 @@ Movie ranking and birthday invitation pages practise headings, paragraphs, image
 
 This is a learning prototype. It has no application backend, authentication, database or dynamic features. Exercise content should not be treated as a current personal recommendation or real event.
 
-## Preview
-
-![HTML learning portfolio homepage](docs/screenshots/learning-portfolio.jpg)
-
 ## Run locally
 
 Open `index.html` in a browser, or run:
